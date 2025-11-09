@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Document Processor",
+  "description": "An application to upload documents (PDF/Image), define a data schema, and use Gemini to extract structured information. It tracks execution history and allows downloading results.",
+  "requestFramePermissions": []
+}
